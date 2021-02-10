@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor office",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "School meeting",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food shop",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Meet me in a club",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Hi Mom",
+      "day": "All day",
+      "reminder": "",
+      "id": 5
+    }
+  ]
+}
